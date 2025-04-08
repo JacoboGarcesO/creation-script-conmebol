@@ -194,6 +194,7 @@ VALUES
   (101, 'Juan Perez', '1975-03-10', 48),
   (102, 'Maria Rodriguez', '1982-08-25', 41),
   (103, 'Pedro Gomez', '1968-11-15', 57),
+  (105, 'Manuel Gomez', '1968-11-15', 57),
   (104, 'Dario Ruiz', '1968-11-15', 57);
 
 INSERT INTO CORREOMANAGER (CORREO, DNIMANAGER)
